@@ -1,5 +1,5 @@
-BOT_TOKEN = "MTA1NDQyODEyNDI4NjI5MjAyOQ.GnQFg7.bb_8lro19-v9fW17uqhK8RiPwRNNDsQqOTXh60"  # Your Api Key
-ID_POST = 1037401096827719774  # Your Post ID
+BOT_TOKEN = "****"  # Your Api Key
+ID_POST = *****  # Your Post ID
 USER_ROLES_LIST = ()
 MAX_ROLES = 20
 
